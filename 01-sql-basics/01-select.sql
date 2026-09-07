@@ -8,7 +8,7 @@ CREATE TABLE students (
 );
 
 INSERT INTO students (id, name, course, age)
-VALUES
+VALUESgit status
     (1, 'Anand', 'Java', 22),
     (2, 'Rahul', 'SQL', 23),
     (3, 'Priya', 'JavaScript', 21);
